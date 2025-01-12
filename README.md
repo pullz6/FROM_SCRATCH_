@@ -1,3 +1,3 @@
 # Model_Serving
 
-DOCKER, KUBERNETS
+Welcome to this series where we code popular machine learning alogirthims from scratch. 
