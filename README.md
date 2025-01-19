@@ -31,7 +31,7 @@ Objectives in this repo is the below:
 
 ## Installation
 
-1. This was completed using a Google Colab, you ca replicate it similarly inside Google Colab or as a Jupyter Notebook. 
+1. This was completed using a Google Colab, you can replicate it similarly inside Google Colab or as a Jupyter Notebook. 
 
 
 ## Acknowledgments
